@@ -1,0 +1,1 @@
+# AWS-Resource-Inventory-Automation-Script
