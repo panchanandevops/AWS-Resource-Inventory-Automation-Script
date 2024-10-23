@@ -55,7 +55,5 @@ Example:
 ## **Error Handling**
 - If an invalid service is provided, the script will notify the user and provide a list of supported services.
 - For global services, the script automatically skips the AWS region flag, ensuring smooth resource listing.
-- The script validates that the AWS CLI is installed
-
- and configured properly before proceeding with any AWS API calls.
+- The script validates that the AWS CLI is installed and configured properly before proceeding with any AWS API calls.
 
